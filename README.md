@@ -34,12 +34,16 @@ Ensure your repository does not contain any personal or team tokens/access infor
 ### Team Information:
 Team Member 1:
  - Full Name: Tina Wang
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-8vzquvvTOeLsDaG):
+ - Womanium Program Enrollment ID: WQ24-8vzquvvTOeLsDaG
 
 
 Team Member 2:
  - Full Name: Michael Peters
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-riEEFV569ors2JV):
+ - Womanium Program Enrollment ID: WQ24-riEEFV569ors2JV
+
+Team Member 3:
+- Full Name: Bimal Mehta
+- Womanium Program Enrollment ID: WQ24-6ubPUBSrEZmsLtf
 
 
 ### Project Solution:
